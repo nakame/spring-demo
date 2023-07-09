@@ -1,0 +1,8 @@
+### Actuator info
+GET localhost:8080/actuator/info
+
+### Actuator health
+GET localhost:8080/actuator/health
+
+### Actuator metrics
+GET localhost:8080/actuator/metrics
